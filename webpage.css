@@ -1,0 +1,43 @@
+ h1{
+   color: #546789;
+   margin-left: '500px';
+     }
+
+     body{
+
+        background-color:#a9a9a9;
+        
+
+     }
+
+     h2,p{
+         color: #ffffff;
+         text-align: center;
+        font-family: monospace;
+        
+     }
+
+     .header{
+         margin-left: '50%';
+        background-color:#fa8072;
+        display: flex;
+        justify-content: space-between;
+
+     }
+
+     .grid{
+         display: flex;
+         flex-wrap: wrap;
+         justify-content: space-evenly;
+         border-color: coral;
+         border-width: 10pt;
+         padding: 150pt;
+         border: mistyrose;
+         margin-left: 100pt;
+         
+     }
+
+     .footer{
+         display: flex;
+         justify-content: flex-end;
+     }
